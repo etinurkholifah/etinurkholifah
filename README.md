@@ -13,13 +13,12 @@
   </div>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=etinurkholifah&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/57/80/12/5780125f1228ed8cbfa2761d7aae4347.gif" width="500" height="200"/>
 </div>
-
 
 ---
 
@@ -32,3 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=etinurkholifah&theme=dark&background=000000)](https://git.io/streak-stats)
