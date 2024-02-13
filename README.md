@@ -20,10 +20,7 @@
   <img src="https://i.pinimg.com/originals/57/80/12/5780125f1228ed8cbfa2761d7aae4347.gif" width="500" height="200"/>
 </div>
 
----
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,3 +36,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
