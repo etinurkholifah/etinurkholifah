@@ -38,7 +38,7 @@
 ### :writing_hand: Blog Posts :
 <div>
   <a href="https://github.com/etinurkholifah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=etinurkholifah&theme=dark&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=etinurkholifah&theme=dark&layout=compact&langs_count=6&bg_color=30,e96443,904e95"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=etinurkholifah&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=etinurkholifah&theme=dark&layout=compact&langs_count=6"/>
   </a>
 </div>
