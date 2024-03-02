@@ -1,18 +1,6 @@
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47igofiyenhsk0s4c66n1bxzhq7p973wzw5hmhghho&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150"/>
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-</div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=etinurkholifah&style=flat-square&color=blue" alt=""/>
 </div>
